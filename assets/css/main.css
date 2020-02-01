@@ -2260,12 +2260,18 @@ input, select, textarea {
 	.project-images {
 		max-width: 300px;
 		max-height: auto;
+		margin: 0 auto;
 	}
 
 	.project-container {
 		display: flex;
 		flex-wrap: wrap;
 		width: 33%;
+	}
+
+	.card {
+		border:1px black solid;
+		background-color: white;
 	}
 	@media (max-width: 900px) {
 		.project-images {
