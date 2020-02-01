@@ -2258,7 +2258,7 @@ input, select, textarea {
 	/* Project Div */
 
 	.project-images {
-		max-width: 300px;
+		max-width: 250px;
 		max-height: auto;
 		margin: 0 auto;
 	}
